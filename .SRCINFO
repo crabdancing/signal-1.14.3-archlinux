@@ -1,0 +1,20 @@
+pkgbase = signal-desktop-1.14.3-bin
+	pkgdesc = Private messaging from your desktop
+	pkgver = 1.14.3
+	pkgrel = 2
+	url = https://github.com/signalapp/Signal-Desktop
+	arch = x86_64
+	license = GPL3
+	depends = gconf
+	depends = gtk3
+	depends = libnotify
+	depends = nss
+	depends = xdg-utils
+	depends = libxss
+	provides = signal-desktop
+	conflicts = signal
+	options = !strip
+	source = signal-desktop
+
+pkgname = signal-desktop-bin
+
