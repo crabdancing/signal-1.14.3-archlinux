@@ -16,5 +16,5 @@ pkgbase = signal-desktop-1.14.3-bin
 	options = !strip
 	source = signal-desktop
 
-pkgname = signal-desktop-bin
+pkgname = signal-desktop-1.14.3-bin
 
