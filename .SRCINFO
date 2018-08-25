@@ -1,4 +1,4 @@
-pkgbase = signal-desktop-1.14.3-bin
+pkgbase = signal-desktop
 	pkgdesc = Private messaging from your desktop
 	pkgver = 1.14.3
 	pkgrel = 2
